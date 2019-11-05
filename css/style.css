@@ -1,7 +1,43 @@
 body{
-
+background-color:grey;
 }
 
 
 tr:nth-child(odd) { background-color: #bbb; }
 tr:nth-child(even) { background-color: #fff; }
+
+.tableContainer{
+box-sizing:border-box;
+border-radius:5px;
+margin:auto;
+color: black;
+text-align: center;
+}
+
+.header{
+color: white;
+text-align: center;
+}
+
+.owner1{
+background-color:#7887AB;
+width:200px;
+height:100px;
+overflow:1;
+}
+
+.owner2{
+background-color:#4F628E;
+}
+
+.owner3{
+background-color:#2E4172;
+}
+
+.owner4{
+background-color:#162955;
+}
+
+.owner5{
+background-color:#061539;
+}
