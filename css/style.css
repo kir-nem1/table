@@ -1,0 +1,7 @@
+body{
+
+}
+
+
+tr:nth-child(odd) { background-color: #bbb; }
+tr:nth-child(even) { background-color: #fff; }
